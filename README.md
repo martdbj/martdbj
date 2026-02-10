@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=martdbj)
 
 <!--
 **martdbj/martdbj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
