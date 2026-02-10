@@ -13,7 +13,7 @@ I really enjoy learning new things and creating cool projects.
 - JavaScript
 ### Databases
 - MariaDB
-- PostgresSQL (learning)
+- PostgreSQL (learning)
 
 ## What I'm creating now :city_sunrise:
 [Jinbu-PhotographersMedia](https://github.com/mPereda5051/Proyecto-DAW)<br>
