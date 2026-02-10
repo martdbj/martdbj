@@ -1,17 +1,22 @@
-## Hi there 👋
+## Hi there, my name is Martin 👋
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=martdbj)
+Web app developer student.
+I really enjoy learning new things and creating cool projects.
 
-<!--
-**martdbj/martdbj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech stack :ship:
+### Backend
+- SpringBoot
+- Django
+### Frontend
+- HTML/CSS
+- JavaScript
+### Databases
+- MariaDB
+- PostgresSQL (learning)
 
-Here are some ideas to get you started:
+## What I'm creating now :city_sunrise:
+Jinbu is a social media platform where professional photographers can share their work and find inspiration.
+I'm working on creating a strong backend with SpringBoot.
+[Jinbu-PhotographersMedia](https://github.com/mPereda5051/Proyecto-DAW)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to reach out to me -> martdbj@gmail.com
