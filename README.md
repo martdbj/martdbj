@@ -16,9 +16,10 @@ I really enjoy learning new things and creating cool projects.
 - PostgresSQL (learning)
 
 ## What I'm creating now :city_sunrise:
+[Jinbu-PhotographersMedia](https://github.com/mPereda5051/Proyecto-DAW)
 Jinbu is a social media platform where professional photographers can share their work and find inspiration.
 I'm working on creating a strong backend with SpringBoot.
-[Jinbu-PhotographersMedia](https://github.com/mPereda5051/Proyecto-DAW)
+
 
 ## Contact 📱
 If you want to reach out to me &#8594; martdbj@gmail.com
