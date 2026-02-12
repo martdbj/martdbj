@@ -1,7 +1,7 @@
 ## Hi there, my name is Martin 👋
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=martdbj)
 <br>
-Web app developer student.
+Web app developement student.
 I really enjoy learning new things and creating cool projects.
 
 ## Tech stack :ship:
