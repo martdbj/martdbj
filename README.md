@@ -6,6 +6,7 @@ I really enjoy learning new things and creating cool projects.
 
 ## Tech stack :ship:
 ### Backend
+- Java, Python, PHP
 - SpringBoot
 - Django
 ### Frontend
