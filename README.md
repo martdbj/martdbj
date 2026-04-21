@@ -8,10 +8,10 @@ I really enjoy learning new things and creating cool projects.
 ### Backend
 - Java, Python, PHP
 - SpringBoot
-- Django
 ### Frontend
 - HTML/CSS
 - JavaScript
+- Angular
 ### Databases
 - MariaDB
 - PostgreSQL (learning)
